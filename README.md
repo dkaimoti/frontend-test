@@ -1,6 +1,6 @@
 # Frontend Test
 
-O candidato deve fazer fork deste repositório e após o terminar o desenvolvimento, realizar um pull request e avisar por email para análise do time.
+O candidato deve fazer fork deste repositório e após terminar o desenvolvimento, realizar um pull request e avisar por email para análise da equipa.
 
 ## Objetivos
 
