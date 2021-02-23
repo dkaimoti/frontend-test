@@ -1,0 +1,45 @@
+mat-toolbar{
+    background-color: #ffffff;
+    position: fixed;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 10%);
+
+    .spacer{
+        flex: 1 1 auto;
+    }
+
+    button{
+        background: #4DA8F2;
+        color: #ffffff;
+        border: 1px solid !important;
+        text-transform: uppercase;
+        font-weight: 400;
+        outline: 0;
+        text-decoration: unset;
+
+        .text{
+            margin-left: 4px;
+            font-size: 16px;
+        }
+    }
+}
+
+.page-wrapper{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #F7F7F7;
+
+    .container{
+        height: 100%;
+        padding: 24px;
+        padding-top: 88px;
+        .mat-table{
+            width: 100%;
+
+            .actions-column{
+                max-width: 56px;
+                width: 56px;
+            }
+        }
+    }
+}

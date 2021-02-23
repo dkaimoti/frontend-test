@@ -1,0 +1,23 @@
+.music-container{
+    mat-form-field{
+        width: 100%;
+    }
+
+    .actions{
+        text-align: right;
+        margin-top: 24px;
+
+        button{
+            background: #ffffff;
+            color: #4DA8F2;
+            text-transform: uppercase;
+            border: 1px solid #4DA8F2 !important;
+        }
+
+        .submit-btn{
+            margin-left: 16px;
+            background: #4DA8F2;
+            color: #ffffff;
+        }
+    }
+}
